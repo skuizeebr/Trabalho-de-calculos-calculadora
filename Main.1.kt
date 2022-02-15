@@ -14,7 +14,7 @@ fun main(args: Array<String>) {
     println("O resultado da Força Elastica é: $forcaElastica")
 
     val velocidadeMedida = calculos.velocidadeMedia(54f, 108f, 60f, 120f)
-    println("O resiltado da Velocidade de Medida é: $velocidadeMedida")
+    println("O resultado da Velocidade de Medida é: $velocidadeMedida")
 
     val movimentoUniforme = calculos.movimentoUniforme(35f, 20f, 30f)
     println("O resultado do MRU é: $movimentoUniforme")
